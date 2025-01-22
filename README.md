@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamzat
 - 👀 I’m a Full-stack Software Developer.
-- 💥 I write React, Node.JS, Vue, Ruby on rails.
-- 💞️ All things Javascript & Ruby.
+- 💥 I write React, React Native, and Node JS.
+- 💞️ All things Javascript & Typescript.
 - 📫 How to reach me hamzatajanaku@gmail.com
 
 <!---
